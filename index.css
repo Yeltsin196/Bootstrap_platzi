@@ -19,6 +19,16 @@
 	height:100%;
 }
 
+.btn-platzi{
+	background-color:  #97c93e ;
+	color:white;
+}
+
+.btn-platzi:hover{
+	background-color:  #82ad36 ;
+	
+}
+
 #carousel .overlay{
 	position: absolute;
 	top: 0;
